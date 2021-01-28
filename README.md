@@ -29,3 +29,11 @@ Installation:
 	Okay, we are done. Now please run the below command in your terminal and you are ready to access your web stories.
 
 	php artisan serve
+
+
+<h3>After Installation:</h3>
+    
+    Admin Login: http://127.0.0.1:8000/login
+    Credentials:
+        email: demo@qkutu.com
+        password: password
